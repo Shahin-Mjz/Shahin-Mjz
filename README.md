@@ -1,19 +1,22 @@
 # 👨‍🎓 Shahin Majazi
-Kerman Province, Iran
 
-## Contact Information
-- <img src='https://github.com/Shahin-Mjz/Images/blob/main/LinkedIn.png' width=40 height=40/>  <a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
-- 
+Kerman Province, Iran
+- **Gmail:** majazishahin@gmail.com
+- **LinkedIn:** <a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
+- **GitHub:** <a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
+- **Coursera:** <a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
+
+
+## Job Titles
+- **AI Projects Management**
+
 
 ## 📚 Summary
-I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles.
+
+🎓 As a graduate student in the field of electrical engineering at Shahid Bahonar University of Kerman 🏫 with a keen interest in the realm of artificial intelligence, I have dedicated myself to exploring its various facets, including machine learning 📊, deep learning 🧠, and data analysis 📈. These cutting-edge disciplines have become the focal point of my studies, enabling me to develop a comprehensive understanding of their intricacies and applications. 💡 I am driven by a profound enthusiasm to leverage my acquired skills and knowledge in these areas, positioning myself to make meaningful contributions to AI-related roles and endeavors. 🚀
+
 
 ## 💼 Experience
-### Masters Student
-#### Shahid Bahonar University of Kerman
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=165 height=190/>
-2020 - Present (4 years)
-
 
 ### Data Science Challenge
 #### Coursera
@@ -25,9 +28,17 @@ A Data Science Coding Competition project working with a real-world dataset to b
 Nov 2023 - Nov 2023 (1 month)
 
 ## Education
-### Shahid Bahonar University of Kerman
-Master, Electrical Engineering(telecommunication-system)
-2020 - Present
+
+### Masters Student
+#### Shahid Bahonar University of Kerman
+
+<br>
+
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=165 height=190/>
+
+**Master, Electrical Engineering (telecommunication-system)**
+**2020 - Present**
+
 
 ## Licenses & Certifications
 - "Machine Learning Certificate" by Stanford University | Coursera - Stanford University
