@@ -1,10 +1,10 @@
-# Shahin Majazi
+# 👨‍🎓 Shahin Majazi
 
-## Summary
-I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at the Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles within the industry.
+## 📚 Summary
+I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles.
 
-## Experience
-### Masters Student
+## 💼 Experience
+### ![Image Description]([path_to_your_image](https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png)) Masters Student 
 #### Shahid Bahonar University of Kerman
 2020 - Present (4 years)
 
