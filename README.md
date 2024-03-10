@@ -1,10 +1,9 @@
 # 👨‍🎓 Shahin Majazi
 Kerman Province, Iran
 
-## Connections
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Gmail.png' width=40 height=30/>   majazishahin@gmail.com
-- <img src='https://github.com/Shahin-Mjz/Images/blob/main/LinkedIn.png' width=30 height=30/>
-
+## Contact Information
+- <img src='https://github.com/Shahin-Mjz/Images/blob/main/LinkedIn.png' width=40 height=40/>  <a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
+- 
 
 ## 📚 Summary
 I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles.
