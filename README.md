@@ -1,15 +1,21 @@
 # 👨‍🎓 Shahin Majazi
 
 Kerman Province, Iran
-> - **Gmail:** majazishahin@gmail.com
-> - **LinkedIn:** <a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
-> - **GitHub:** <a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
-> - **Coursera:** <a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
+> - **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
+> - **LinkedIn:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
+> - **Coursera:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
+> - **Gmail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;majazishahin@gmail.com
 
 
-## Job Titles
-- **AI Projects Management**
+## Work Preferences
+> - **Data Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Entry-level)**
+> - **AI Project Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Entry-level)**
+> - **AI Research and Development&nbsp;&nbsp;&nbsp;&nbsp;(Entry-level)**
+> - **...**
 
+## Location preferences
+> - **Open to remote work**
+> - **Not willing to relocate**
 
 ## 📚 Summary
 
