@@ -60,7 +60,7 @@ In carrying out the research, I began with extensive data exploration, resolving
 
 <br>
 
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=175 height=190/>
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=175 height=210/>
 
 **Master, Electrical Engineering (telecommunication-system)**
 **2020 - Present**
