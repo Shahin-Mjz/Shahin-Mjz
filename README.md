@@ -25,13 +25,33 @@
 ## 💼 Experience
 
 ### Data Science Challenge | Coursera Projects
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='190' height='190'/>
 
-> **Nov 2023 - Nov 2023 (1 month):**
- A Data Science Coding Competition project that builds a prediction or classification model using an actual dataset. To solve the challenge, the participants used Jupyter Notebook and Python, concentrating on feature engineering, data manipulation, and model evaluation. Through the competition, students had the chance to practice using their critical thinking and problem-solving abilities, as well as gain knowledge of machine learning algorithms and data visualization methods.
+#### Nov 2023 - Nov 2023 (3 days) <br>
+> - **Project scenario** <br>
+A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the problem using Python and Jupyter Notebook, with a focus on data manipulation, feature engineering, and model evaluation. The competition allowed students to practice their problem-solving and critical thinking skills, as well as gain experience with machine learning algorithms and data visualization techniques.
+> - **Skills demonstrated** <br>
+`Data Science` `Data Analysis` `Python Programming` `Machine Learning`
+> - **Tools used** <br>
+`Python`
+> - **Summary** <br>
+Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
+> - **Solution** <br>
+In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
+> - **Approach** <br>
+In carrying out the research, I began with extensive data exploration, resolving imbalances by configuring 'balanced' predictors. Using the Gradient Boosting Classifier, redundant features were identified and eliminated, nominal data was encoded with One-Hot, and feature selection was performed. We refined the model using hyperparameter tuning with grid search to ensure optimal performance and project completion.
+> - **Project link(s)** <br>
+[GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
+[Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 
 ### Clean and analyze social media usage data with Python | Coursera Projects
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='190' height='190'/>
 
-> **Nov 2023 - Nov 2023 (1 month):**
+#### Nov 2023 - Nov 2023 (2 hours): <br>
+> - **** <br>
+> - **** <br>
+> - **** <br>
+> - **** <br>
 
 ## Education
 
