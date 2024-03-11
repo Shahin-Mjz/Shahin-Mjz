@@ -1,10 +1,10 @@
 # 👨‍🎓 Shahin Majazi
 
 Kerman Province, Iran
-- **Gmail:** majazishahin@gmail.com
-- **LinkedIn:** <a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
-- **GitHub:** <a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
-- **Coursera:** <a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
+> - **Gmail:** majazishahin@gmail.com
+> - **LinkedIn:** <a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
+> - **GitHub:** <a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
+> - **Coursera:** <a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
 
 
 ## Job Titles
@@ -13,19 +13,19 @@ Kerman Province, Iran
 
 ## 📚 Summary
 
-🎓 I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at the Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. 💡 I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles. 🚀
+🎓 I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at the Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. 💡 I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles.
 
 
 ## 💼 Experience
 
-### Data Science Challenge
-#### Coursera
-Nov 2023 - Nov 2023 (1 month)
-A Data Science Coding Competition project working with a real-world dataset to build a prediction or classification model. Participants used Python and Jupyter Notebook to tackle the problem, focusing on data manipulation, feature engineering, and model evaluation. The competition provided an opportunity for learners to apply their problem-solving and critical thinking skills, as well as gain experience in machine learning algorithms and data visualization techniques.
+### Data Science Challenge | Coursera Projects
 
-### Clean and analyze social media usage data with Python
-#### Coursera
-Nov 2023 - Nov 2023 (1 month)
+> **Nov 2023 - Nov 2023 (1 month):**
+ A Data Science Coding Competition project that builds a prediction or classification model using an actual dataset. To solve the challenge, the participants used Jupyter Notebook and Python, concentrating on feature engineering, data manipulation, and model evaluation. Through the competition, students had the chance to practice using their critical thinking and problem-solving abilities, as well as gain knowledge of machine learning algorithms and data visualization methods.
+
+### Clean and analyze social media usage data with Python | Coursera Projects
+
+> **Nov 2023 - Nov 2023 (1 month):**
 
 ## Education
 
