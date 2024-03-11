@@ -25,7 +25,7 @@
 ## 💼 Experience
 
 ### Data Science Challenge | Coursera Projects
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='190' height='190'/>
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='160' height='160'/>
 
 #### Nov 2023 - Nov 2023 (3 days) <br>
 > - **Project scenario** <br>
@@ -45,7 +45,7 @@ In carrying out the research, I began with extensive data exploration, resolving
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 
 ### Clean and analyze social media usage data with Python | Coursera Projects
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='190' height='190'/>
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='160' height='160'/>
 
 #### Nov 2023 - Nov 2023 (2 hours): <br>
 > - **** <br>
