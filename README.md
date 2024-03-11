@@ -13,7 +13,7 @@ Kerman Province, Iran
 
 ## 📚 Summary
 
-🎓 As a graduate student in the field of electrical engineering at Shahid Bahonar University of Kerman 🏫 with a keen interest in the realm of artificial intelligence, I have dedicated myself to exploring its various facets, including machine learning 📊, deep learning 🧠, and data analysis 📈. These cutting-edge disciplines have become the focal point of my studies, enabling me to develop a comprehensive understanding of their intricacies and applications. 💡 I am driven by a profound enthusiasm to leverage my acquired skills and knowledge in these areas, positioning myself to make meaningful contributions to AI-related roles and endeavors. 🚀
+🎓 I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at the Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. 💡 I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles. 🚀
 
 
 ## 💼 Experience
