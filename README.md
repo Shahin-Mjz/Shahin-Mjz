@@ -24,7 +24,7 @@
 
 ## 💼 Experience
 
-### 1. Data Science Challenge | Coursera Projects <br>
+> ### 1. Data Science Challenge | Coursera Projects <br>
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
 > #### Nov 2023 - Nov 2023 (3 days) <br>
 > - **Project scenario** <br>
@@ -45,12 +45,11 @@ In carrying out the research, I began with extensive data exploration, resolving
 > - **Project link(s)** <br>
 [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
-
-### 2. Clean and analyze social media usage data with Python | Coursera Projects
+> ### 2. Clean and analyze social media usage data with Python | Coursera Projects
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/> <br>
 > #### Nov 2023 - Nov 2023 (2 hours) <br>
 > - **Project scenario** <br>
-> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create visualizations. They will use your analysis to help clients improve their 
+> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
   social media performance. This insight will allow the firm to deliver tweets on time and within budget, leading to faster results.
 > - **Skills demonstrated** <br>
 `Seaborn` `Data Analysis` `Python` `Programming` `Pandas` `Data Visualization`
@@ -72,16 +71,18 @@ To understand the dataset, I started the project by writing a descriptive "Data 
       **Electrical Engineering (Telecommunication-System)** <br>
         **@Shahid Bahonar University of Kerman** <br>
         **2020 - Present** <br>
-        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>
-
-
+        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/> <br>
 > - **Bachelor's Degree** <br>
       **Electrical Engineering (Telecommunication-System)** <br>
         **@Shahid Bahonar University of Kerman** <br>
         **2016 - 2020** <br>
-        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>
-
-> - ****
+        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/> <br>
+> - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br><br>
+    <img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/> <br><br>
+> - [**Generative Adversarial Networks<br>(GANs) Specialization**](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) <br><br>
+    <img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/> <br><br>
+> - [**Machine Learning Specialization**](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br><br>
+    <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br><br>
   
 ## Licenses & Certifications
 - "Machine Learning Certificate" by Stanford University | Coursera - Stanford University
