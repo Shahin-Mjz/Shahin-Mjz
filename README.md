@@ -25,7 +25,7 @@
 ## 💼 Experience
 
 ### Data Science Challenge | Coursera Projects
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='140' height='140'/>
+<img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/>
 
 #### Nov 2023 - Nov 2023 (3 days) <br>
 > - **Project scenario** <br>
