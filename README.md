@@ -1,10 +1,10 @@
 # 👨‍🎓 Shahin Majazi
 
 ## Kerman Province, Iran
-> - **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
+> - **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
 > - **LinkedIn:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
 > - **Coursera:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
-> - **Gmail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;majazishahin@gmail.com
+> - **Gmail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;majazishahin@gmail.com
 
 
 ## Work Preferences
