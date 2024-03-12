@@ -24,7 +24,7 @@
 
 ## 💼 Experience
 
-> ### 1. Data Science Challenge | Coursera Projects <br>
+> ### Data Science Challenge | Coursera Projects <br>
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
 > #### Nov 2023 - Nov 2023 (3 days) <br>
 > - **Project scenario** <br>
@@ -45,7 +45,7 @@ In carrying out the research, I began with extensive data exploration, resolving
 > - **Project link(s)** <br>
 [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
-> ### 2. Clean and analyze social media usage data with Python | Coursera Projects
+> ### Clean and analyze social media usage data with Python | Coursera Projects
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/> <br>
 > #### Nov 2023 - Nov 2023 (2 hours) <br>
 > - **Project scenario** <br>
@@ -87,7 +87,7 @@ To understand the dataset, I started the project by writing a descriptive "Data 
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br>
     **Machine Learning by Stanford University & DeepLearning.AI on Coursera.<br>Certificate earned at December 21, 2022 (2 months)**
   
-## Licenses & Certifications
+## 🎓🪪🎓 Licenses & Certifications
 - "Machine Learning Certificate" by Stanford University | Coursera - Stanford University
 - "Data Analysis with R Programming" by Google | Coursera - Google
 - "Data Analysis with Python" by IBM | Coursera - IBM
