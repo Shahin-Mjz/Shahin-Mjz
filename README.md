@@ -47,25 +47,39 @@ In carrying out the research, I began with extensive data exploration, resolving
 ### Clean and analyze social media usage data with Python | Coursera Projects
 <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/>
 
-#### Nov 2023 - Nov 2023 (2 hours): <br>
-> - **** <br>
-> - **** <br>
-> - **** <br>
-> - **** <br>
+#### Nov 2023 - Nov 2023 (2 hours) <br>
+> - **Project scenario** <br>
+You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific categories (health, family, food, etc.), clean and analyze the data, and create visualizations. They will use your analysis to help clients improve their social media performance. This insight will allow the firm to deliver tweets on time and within budget, leading to faster results.
+> - **Skills demonstrated** <br>
+`Seaborn` `Data Analysis` `Python` `Programming` `Pandas` `Data Visualization`
+> - **Tools used** <br>
+`Python`
+> - **Summary** <br>
+Taking on "Clean and Analyze Social Media Usage Data with Python," I described, displayed, and analyzed data. Python's "Data Visualization" improved insights and honed abilities for future assignments.
+> - **Solution** <br>
+Using Python to analyze social media data, I computed average likes and shares over time, uncovered trends, and grouped data by country to reveal engagement patterns. I used a correlation matrix to investigate relationships between likes and shares, demonstrating my ability to extract useful insights.
+> - **Approach** <br>
+To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This methodical process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
+> - **Project link(s)** <br>
+[GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
+[Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
 
 ## Education
 
-### Masters Student
-#### Shahid Bahonar University of Kerman
-
-<br>
-
-<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>
-
-**Master, Electrical Engineering (telecommunication-system)**
-**2020 - Present**
+> - **Masters Student** <br>
+      **Electrical Engineering (Telecommunication-System)** <br>
+        **@Shahid Bahonar University of Kerman** <br>
+        **2020 - Present** <br>
+        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>
 
 
+> - **Bachelor's Degree** <br>
+      **Electrical Engineering (Telecommunication-System)** <br>
+        **@Shahid Bahonar University of Kerman** <br>
+        **2016 - 2020** <br>
+        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>
+
+    
 ## Licenses & Certifications
 - "Machine Learning Certificate" by Stanford University | Coursera - Stanford University
 - "Data Analysis with R Programming" by Google | Coursera - Google
