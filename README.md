@@ -79,13 +79,13 @@ To understand the dataset, I started the project by writing a descriptive "Data 
         <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/> <br>
 > - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br><br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/> <br>
-    **Deep Learning by DeepLearning.AI on Coursera.<br>Certificate earned at March 6, 2024** <br><br>
+    **Deep Learning by DeepLearning.AI on Coursera.<br>Certificate earned at March 6, 2024 (3 months)** <br><br>
 > - [**Generative Adversarial Networks<br>(GANs) Specialization**](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) <br><br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/> <br>
-    **Generative Adversarial Networks (GANs) by DeepLearning.AI on Coursera.<br>Certificate earned at November 29, 2023** <br><br>
+    **Generative Adversarial Networks (GANs) by DeepLearning.AI on Coursera.<br>Certificate earned at November 29, 2023 (2 months)** <br><br>
 > - [**Machine Learning Specialization**](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br><br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br>
-    **Machine Learning by Stanford University & DeepLearning.AI on Coursera.<br>Certificate earned at December 21, 2022**
+    **Machine Learning by Stanford University & DeepLearning.AI on Coursera.<br>Certificate earned at December 21, 2022 (2 months)**
   
 ## Licenses & Certifications
 - "Machine Learning Certificate" by Stanford University | Coursera - Stanford University
