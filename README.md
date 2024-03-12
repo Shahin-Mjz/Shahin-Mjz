@@ -24,7 +24,7 @@
 
 ## 💼 Experience
 
-- ### Data Science Challenge | Coursera Projects <br>
+### 1. Data Science Challenge | Coursera Projects <br>
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
 > #### Nov 2023 - Nov 2023 (3 days) <br>
 > - **Project scenario** <br>
@@ -46,7 +46,7 @@ In carrying out the research, I began with extensive data exploration, resolving
 [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 
-- ### Clean and analyze social media usage data with Python | Coursera Projects
+### 2. Clean and analyze social media usage data with Python | Coursera Projects
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/> <br>
 > #### Nov 2023 - Nov 2023 (2 hours) <br>
 > - **Project scenario** <br>
@@ -66,7 +66,7 @@ To understand the dataset, I started the project by writing a descriptive "Data 
 [GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
 
-## Education
+## 🎓 Education
 
 > - **Masters Student** <br>
       **Electrical Engineering (Telecommunication-System)** <br>
