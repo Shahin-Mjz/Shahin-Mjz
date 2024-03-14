@@ -26,42 +26,42 @@
 
 > ### Data Science Challenge | Coursera Projects <br>
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
-> #### Nov 2023 - Nov 2023 (3 days) <br>
-> - **Project scenario** <br>
-> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
+>> #### Nov 2023 - Nov 2023 (3 days) <br>
+>>> - **Project scenario** <br>
+>>> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
   problem using Python and Jupyter Notebook, with a focus on data manipulation, feature engineering, and model evaluation. The competition allowed students 
   to practice their problem-solving and critical thinking skills, as well as gain experience with machine learning algorithms and data visualization 
   techniques.
-> - **Skills demonstrated** <br>
+>>> - **Skills demonstrated** <br>
 `Data Science` `Data Analysis` `Python Programming` `Machine Learning`
-> - **Tools used** <br>
+>>> - **Tools used** <br>
 `Python`
-> - **Summary** <br>
+>>> - **Summary** <br>
 Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
-> - **Solution** <br>
+>>> - **Solution** <br>
 In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
-> - **Approach** <br>
+>>> - **Approach** <br>
 In carrying out the research, I began with extensive data exploration, resolving imbalances by configuring 'balanced' predictors. Using the Gradient Boosting Classifier, redundant features were identified and eliminated, nominal data was encoded with One-Hot, and feature selection was performed. We refined the model using hyperparameter tuning with grid search to ensure optimal performance and project completion.
-> - **Project link(s)** <br>
+>>> - **Project link(s)** <br>
 [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 > ### Clean and analyze social media usage data with Python | Coursera Projects
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/> <br>
-> #### Nov 2023 - Nov 2023 (2 hours) <br>
-> - **Project scenario** <br>
-> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
+>> #### Nov 2023 - Nov 2023 (2 hours) <br>
+>>> - **Project scenario** <br>
+>>> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
   social media performance. This insight will allow the firm to deliver tweets on time and within budget, leading to faster results.
-> - **Skills demonstrated** <br>
+>>> - **Skills demonstrated** <br>
 `Seaborn` `Data Analysis` `Python` `Programming` `Pandas` `Data Visualization`
-> - **Tools used** <br>
+>>> - **Tools used** <br>
 `Python`
-> - **Summary** <br>
+>>> - **Summary** <br>
 Taking on "Clean and Analyze Social Media Usage Data with Python," I described, displayed, and analyzed data. Python's "Data Visualization" improved insights and honed abilities for future assignments.
-> - **Solution** <br>
+>>> - **Solution** <br>
 Using Python to analyze social media data, I computed average likes and shares over time, uncovered trends, and grouped data by country to reveal engagement patterns. I used a correlation matrix to investigate relationships between likes and shares, demonstrating my ability to extract useful insights.
-> - **Approach** <br>
+>>> - **Approach** <br>
 To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This methodical process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
-> - **Project link(s)** <br>
+>>> - **Project link(s)** <br>
 [GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
 [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
 
@@ -89,38 +89,45 @@ To understand the dataset, I started the project by writing a descriptive "Data 
   
 ## 🎓🪪🎓 Licenses & Certifications
 > ### My Specializations
-> - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br>
+>> - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/>
-> - [**Generative Adversarial Networks<br>(GANs) Specialization**](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) <br>
+>> - [**Generative Adversarial Networks<br>(GANs) Specialization**](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) <br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/>
-> - [**Machine Learning Specialization**](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
+>> - [**Machine Learning Specialization**](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br>
 > ### My Courses
-> - [**Build Better Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3)
-> - [**Sequence Models | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/W6MMDXLASVVX)
-> - [**Natural Language Processing with Classification and Vector Spaces | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/NDKAYV7ECQD3)
-> - [**Convolutional Neural Networks | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/3NNHCHTG657R)
-> - [**Introduction to Machine Learning in Production | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9HNA6SXXVSE2)
-> - [**Foundations of Project Management | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/EBAK9KH3MZF6)
-> - [**Play It Safe: Manage Security Risks | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/A5RPKEU3K3CZ)
-> - [**Generative AI for Everyone | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/4BWY66C98A75)
-> - [**AI Capstone Project with Deep Learning | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/S6DCZN2SPN9K)
-> - [**Apply Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)
-> - [**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/5VU4HUQ3UPV3)
-> - [**Deep Neural Networks with PyTorch | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/X7FGPQM8D7UV)
-> - [**Foundations of Cybersecurity | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/NJJ9Q3G44HCE)
-> - [**Advanced Learning Algorithms | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/U69WGAXBLHY8)
-> - [**Supervised Machine Learning: Regression and Classification | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/FEFH4XLAS3VC)
-> - [**Building Deep Learning Models with TensorFlow | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/WNCXBGXBEM2Z)
-> - [**Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/BBK6NC5AJUV7)
-> - [**Structuring Machine Learning Projects | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/XTKBSDA5YK8N)
-> - [**Build Basic Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)
-> - [**Data Analysis with Python | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/EV2KPM2LMQPA)
-> - [**Machine Learning | Coursera - Stanford University**](https://www.coursera.org/account/accomplishments/records/CUZVQ77PPTB7)
-> - [**Neural Networks and Deep Learning | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9FAYHKPJ822P)
-> - [**Python for Data Science, AI & Development | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/5D94MEGC64LQ)
-> - [**Data Analysis with R Programming | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/99AP5PPXRCWE)
-> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
+>> #### GAN Field
+>>> - [**Build Better Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3)
+>>> - [**Apply Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)
+>>> - [**Build Basic Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)
+>> #### Data Science Field
+>>> - [**Data Analysis with Python | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/EV2KPM2LMQPA)
+>>> - [**Python for Data Science, AI & Development | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/5D94MEGC64LQ)
+>>> - [**Data Analysis with R Programming | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/99AP5PPXRCWE)
+>> #### NLP Field
+>>> - [**Sequence Models | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/W6MMDXLASVVX)
+>>> - [**Natural Language Processing with Classification and Vector Spaces | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/NDKAYV7ECQD3)
+>> #### Deep Learning Field
+>>> - [**Generative AI for Everyone | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/4BWY66C98A75)
+>>> - [**Convolutional Neural Networks | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/3NNHCHTG657R)
+>>> - [**Introduction to Machine Learning in Production | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9HNA6SXXVSE2)
+>>> - [**AI Capstone Project with Deep Learning | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/S6DCZN2SPN9K)
+>>> - [**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/5VU4HUQ3UPV3)
+>>> - [**Deep Neural Networks with PyTorch | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/X7FGPQM8D7UV)
+>>> - [**Advanced Learning Algorithms | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/U69WGAXBLHY8)
+>>> - [**Supervised Machine Learning: Regression and Classification | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/FEFH4XLAS3VC)
+>>> - [**Building Deep Learning Models with TensorFlow | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/WNCXBGXBEM2Z)
+>>> - [**Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/BBK6NC5AJUV7)
+>>> - [**Structuring Machine Learning Projects | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/XTKBSDA5YK8N)
+>>> - [**Machine Learning | Coursera - Stanford University**](https://www.coursera.org/account/accomplishments/records/CUZVQ77PPTB7)
+>>> - [**Neural Networks and Deep Learning | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9FAYHKPJ822P)
+>> #### Project Management Field
+>>> - [**Foundations of Project Management | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/EBAK9KH3MZF6)
+>> #### Cybersecurity Field
+>>> - [**Play It Safe: Manage Security Risks | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/A5RPKEU3K3CZ)
+>>> - [**Foundations of Cybersecurity | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/NJJ9Q3G44HCE)
+>> #### Git & GitHub Field
+>>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
 
 ## Skills
 Attention Models, Facial Recognition Systems, Gated Recurrent Unit (GRU), Inductive Transfer, Long Short-term Memory (LSTM), Natural Language Processing, Object Detection and Segmentation, CNNs, RNNs, Transformers
