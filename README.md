@@ -28,42 +28,42 @@
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
 >> #### Nov 2023 - Nov 2023 (3 days) <br>
 >>> - **Project scenario** <br>
->>> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
+>>>> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
   problem using Python and Jupyter Notebook, with a focus on data manipulation, feature engineering, and model evaluation. The competition allowed students 
   to practice their problem-solving and critical thinking skills, as well as gain experience with machine learning algorithms and data visualization 
   techniques.
 >>> - **Skills demonstrated** <br>
-`Data Science` `Data Analysis` `Python Programming` `Machine Learning`
+>>>> `Data Science` `Data Analysis` `Python Programming` `Machine Learning`
 >>> - **Tools used** <br>
-`Python`
+>>>> `Python`
 >>> - **Summary** <br>
-Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
+>>>> Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
 >>> - **Solution** <br>
-In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
+>>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
 >>> - **Approach** <br>
-In carrying out the research, I began with extensive data exploration, resolving imbalances by configuring 'balanced' predictors. Using the Gradient Boosting Classifier, redundant features were identified and eliminated, nominal data was encoded with One-Hot, and feature selection was performed. We refined the model using hyperparameter tuning with grid search to ensure optimal performance and project completion.
+>>>> In carrying out the research, I began with extensive data exploration, resolving imbalances by configuring 'balanced' predictors. Using the Gradient Boosting Classifier, redundant features were identified and eliminated, nominal data was encoded with One-Hot, and feature selection was performed. We refined the model using hyperparameter tuning with grid search to ensure optimal performance and project completion.
 >>> - **Project link(s)** <br>
-[GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
-[Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
+>>>> [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
+>>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 > ### Clean and analyze social media usage data with Python | Coursera Projects
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/> <br>
 >> #### Nov 2023 - Nov 2023 (2 hours) <br>
 >>> - **Project scenario** <br>
->>> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
+>>>> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
   social media performance. This insight will allow the firm to deliver tweets on time and within budget, leading to faster results.
 >>> - **Skills demonstrated** <br>
-`Seaborn` `Data Analysis` `Python` `Programming` `Pandas` `Data Visualization`
+>>>> `Seaborn` `Data Analysis` `Python` `Programming` `Pandas` `Data Visualization`
 >>> - **Tools used** <br>
-`Python`
+>>>> `Python`
 >>> - **Summary** <br>
-Taking on "Clean and Analyze Social Media Usage Data with Python," I described, displayed, and analyzed data. Python's "Data Visualization" improved insights and honed abilities for future assignments.
+>>>> Taking on "Clean and Analyze Social Media Usage Data with Python," I described, displayed, and analyzed data. Python's "Data Visualization" improved insights and honed abilities for future assignments.
 >>> - **Solution** <br>
-Using Python to analyze social media data, I computed average likes and shares over time, uncovered trends, and grouped data by country to reveal engagement patterns. I used a correlation matrix to investigate relationships between likes and shares, demonstrating my ability to extract useful insights.
+>>>> Using Python to analyze social media data, I computed average likes and shares over time, uncovered trends, and grouped data by country to reveal engagement patterns. I used a correlation matrix to investigate relationships between likes and shares, demonstrating my ability to extract useful insights.
 >>> - **Approach** <br>
-To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This methodical process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
+>>>> To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This methodical process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
 >>> - **Project link(s)** <br>
-[GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
-[Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
+>>>> [GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
+>>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
 
 ## 🎓 Education
 
