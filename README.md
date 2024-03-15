@@ -1,4 +1,4 @@
-# 👨‍🎓 Shahin Majazi
+# Shahin Majazi
 
 ## Kerman Province, Iran
 > - **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
@@ -17,12 +17,12 @@
 > - **Open to remote work**
 > - **Not willing to relocate**
 
-## 📚 Summary
+## Summary
 
 > 🎓 I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at the Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. 💡 I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles.
 
 
-## 💼 Experience
+## Experience
 
 > ### Data Science Challenge | Coursera Projects <br>
 > <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
@@ -87,7 +87,7 @@
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br>
     **Machine Learning by Stanford University & DeepLearning.AI on Coursera.<br>Certificate earned at December 21, 2022 (2 months)**
   
-## 🎓🪪🎓 Licenses & Certifications
+## Licenses & Certificates
 > ### My Specializations
 >> - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br>
     <img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/>
@@ -132,7 +132,7 @@
 >
 ## Portfolio
 > ### Cybersecurity Portfolio
->> This cybersecurity portfolio demonstrates expertise by auditing controls, risks, and compliance at a fictional company. The comprehensive report details the security posture through an asset inventory, risk assessment, control types and purposes, and a compliance checklist. It offers recommendations to mitigate identified risks and gaps. Conducting audits to identify and remediate vulnerabilities showcases cybersecurity skills. <br><br>
+>> This cybersecurity portfolio demonstrates expertise by auditing a fictional company's controls, risks, and compliance. The comprehensive report details the security posture through an asset inventory, risk assessment, control types and purposes, and a compliance checklist. It offers recommendations to mitigate identified risks and gaps. Conducting audits to identify and remediate vulnerabilities showcases cybersecurity skills. <br><br>
 >> <img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Portfolio.png' width='350' height='400'/> <br><br>
 >> **View this cybersecurity portfolio** <a href='https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf'>**here**</a>
 ## Skills
