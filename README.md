@@ -130,4 +130,27 @@
 >>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
 
 ## Skills
-Attention Models, Facial Recognition Systems, Gated Recurrent Unit (GRU), Inductive Transfer, Long Short-term Memory (LSTM), Natural Language Processing, Object Detection and Segmentation, CNNs, RNNs, Transformers
+> ### Machine Learning & Deep Learning Skills
+>> `Convolutional Neural Networks (CNNs)` `Artificial Neural Network` `Transformers` `Logistic Regression` `Linear Regression` `Decision Trees` `Recommender Systems` `Facial Recognition System` `Object Detection and Segmentation`
+>> `Concept Drift` `ML Deployment Challenges` `Mathematical Optimization` `Tree Ensembles` `Xgboost` `Anomaly Detection` `Reinforcement Learning` `Collaborative Filtering` `Multi-Task Learning` `...`
+> ### NLP Skills
+>> `Recurrent Neural Networks (RNNs)` `Transformers` `Gated Recurrent Unit (GRU)` `Long Short Term Memory (LSTM)` `Attention Models` `Machine Translation
+` `Sentiment Analysis` `Word Embeddings` `Vector Space Models` `...`
+> ### Data Science Skills
+>> `Model Selection` `Data Analysis` `Data Visualization` `Predictive Modelling` `Data Science` `R Markdown` `...`
+> ### Generative AI Skills
+>> `Transformers` `Image-to-Image Translation` `StyleGANs` `Large Language Models (LLMs)` `AI Strategy` `Generative AI Tools` `AI Productivity` `Pix2Pix` `Privacy Preservation` `...`
+> ### Programming Skills
+>> `Tensorflow` `PyTorch` `Pandas` `Numpy` `R Programming` `Distributed Version Control Systems (DVCS)` `Git` `GitHub` `...`
+> ### Project Management Skills
+>> `Project Scoping and Design` `Project Management` `Change Management` `Strategic Thinking` `Organizational Culture` `Career Development` `...`
+> ### Cybersecurity Skills
+>> `Information Security (INFOSEC)` `NIST Risk Management Framework (RMF)` `Security Audits` `NIST Cybersecurity Framework (CSF)` `Incident Response Playbooks` `Ethics in Cybersecurity` `Historical Attacks` `...`
+
+
+
+
+
+
+
+
