@@ -128,7 +128,11 @@
 >>> - [**Foundations of Cybersecurity | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/NJJ9Q3G44HCE)
 >> #### Git & GitHub Field
 >>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
-
+## Badges
+>
+## Portfolio
+> ### Cybersecurity Filed
+>>
 ## Skills
 > ### Machine Learning & Deep Learning Skills
 >> `Convolutional Neural Networks (CNNs)` `Artificial Neural Network` `Transformers` `Logistic Regression` `Linear Regression` `Decision Trees` `Recommender Systems` `Facial Recognition System` `Object Detection and Segmentation`
