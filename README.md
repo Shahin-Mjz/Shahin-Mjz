@@ -42,7 +42,7 @@
 >>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
 >>> - **Approach** <br>
 >>>> In carrying out the research, I began with extensive data exploration, resolving imbalances by configuring 'balanced' predictors. Using the Gradient Boosting Classifier, redundant features were identified and eliminated, nominal data was encoded with One-Hot, and feature selection was performed. We refined the model using hyperparameter tuning with grid search to ensure optimal performance and project completion.
->>> - **Project link(s)** <br>
+>>> - **Project links** <br>
 >>>> [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 >>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 > ### Clean and analyze social media usage data with Python | Coursera Projects
@@ -61,7 +61,7 @@
 >>>> Using Python to analyze social media data, I computed average likes and shares over time, uncovered trends, and grouped data by country to reveal engagement patterns. I used a correlation matrix to investigate relationships between likes and shares, demonstrating my ability to extract useful insights.
 >>> - **Approach** <br>
 >>>> To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This methodical process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
->>> - **Project link(s)** <br>
+>>> - **Project links** <br>
 >>>> [GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
 >>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
 
@@ -134,7 +134,7 @@
 > ### Cybersecurity Portfolio
 >> This cybersecurity portfolio demonstrates expertise by auditing a fictional company's controls, risks, and compliance. The comprehensive report details the security posture through an asset inventory, risk assessment, control types and purposes, and a compliance checklist. It offers recommendations to mitigate identified risks and gaps. Conducting audits to identify and remediate vulnerabilities showcases cybersecurity skills. <br><br>
 >> <img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Portfolio.png' width='350' height='400'/> <br><br>
->> **View this cybersecurity portfolio** <a href='https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf'>**here**</a>
+>> **View this cybersecurity portfolio** <a href='https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf'>**here**</a> **.**
 ## Skills
 > ### Machine Learning & Deep Learning Skills
 >> `Convolutional Neural Networks (CNNs)` `Artificial Neural Network` `Transformers` `Logistic Regression` `Linear Regression` `Decision Trees` `Recommender Systems` `Facial Recognition System` `Object Detection and Segmentation`
