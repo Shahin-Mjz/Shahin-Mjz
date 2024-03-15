@@ -129,7 +129,9 @@
 >> #### Git & GitHub Field
 >>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
 ## Badges
->
+<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-specialization.png' width='300' height='300'/><img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-specialization.png' width='300' height='300'/><img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-specialization.png' width='300' height='300'/>
+
+
 ## Portfolio
 > ### Cybersecurity Portfolio
 >> This cybersecurity portfolio demonstrates expertise by auditing a fictional company's controls, risks, and compliance. The comprehensive report details the security posture through an asset inventory, risk assessment, control types and purposes, and a compliance checklist. It offers recommendations to mitigate identified risks and gaps. Conducting audits to identify and remediate vulnerabilities showcases cybersecurity skills. <br><br>
