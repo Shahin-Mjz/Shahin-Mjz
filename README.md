@@ -28,7 +28,7 @@
 ## Experience
 
 > ### Data Science Challenge | Coursera Projects <br>
-> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Coursera.png' width='80' height='80'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/analysis.png' width='180' height='180'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
 >> #### Nov 2023 - Nov 2023 (3 days) <br>
 >>> - **Project scenario** <br>
 >>>> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
@@ -49,7 +49,7 @@
 >>>> [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 >>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 > ### Clean and Analyze Social Media Usage Data with Python | Coursera Projects
-> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Clean_and_analyze_social_media_usage_data_with_Python_without_background.png' width='160' height='160'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/data-visualization.png' width='180' height='180'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
 > #### Nov 2023 - Nov 2023 (2 hours) <br>
 >>> - **Project scenario** <br>
 >>>> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
