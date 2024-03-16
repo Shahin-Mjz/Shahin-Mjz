@@ -94,9 +94,9 @@
 
 > ### Courses
 >> #### GAN Field
->>> - [**Build Better Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3)
->>> - [**Apply Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)
->>> - [**Build Basic Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3) [**Build Better Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)[**Apply Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)[**Build Basic Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)
 >> #### Data Science Field
 >>> - [**Data Analysis with Python | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/EV2KPM2LMQPA)
 >>> - [**Python for Data Science, AI & Development | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/5D94MEGC64LQ)
