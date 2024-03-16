@@ -86,13 +86,13 @@
     
   
 ## Licenses & Certificates
-> ### My Specializations
+> ### Specializations
 > [<img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/>](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
 > [<img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/>](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc)
 > [<img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/>](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
 > **Note:** **For viewing the specialization details click on each image.**
 
-> ### My Courses
+> ### Courses
 >> #### GAN Field
 >>> - [**Build Better Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3)
 >>> - [**Apply Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)
