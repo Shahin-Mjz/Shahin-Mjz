@@ -2,7 +2,7 @@
 
 ## Location
 > **Current Location:** Kerman Province, Iran
-## Profiles & Contact Info:
+## Profiles & Contact Info
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/credly.svg' width='25' height='25'/>](https://www.credly.com/users/shahin-majazi) <a href='https://www.credly.com/users/shahin-majazi'> **Credly** </a> <br>
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/github.svg' width='20' height='20'/>](https://github.com/Shahin-Mjz) &nbsp; <a href='https://github.com/Shahin-Mjz'> **GitHub** </a> <br>
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/LinkedIn.png' width='20' height='20'/>](https://www.linkedin.com/in/shahin-majazi/) &nbsp; <a href='https://www.linkedin.com/in/shahin-majazi/'> **LinkedIn** </a> <br>
