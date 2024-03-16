@@ -42,7 +42,7 @@
 >>> - **Summary** <br>
 >>>> Optimized data for balance, removed redundancy, and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
 >>> - **Solution** <br>
->>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
+>>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, I successfully streamlined the dataset and achieved project objectives.
 >>> - **Approach** <br>
 >>>> In carrying out the research, I began with extensive data exploration, resolving imbalances by configuring 'balanced' predictors. Using the Gradient Boosting Classifier, redundant features were identified and eliminated, nominal data was encoded with One-Hot, and feature selection was performed. We refined the model using hyperparameter tuning with grid search to ensure optimal performance and project completion.
 >>> - **Project links** <br>
