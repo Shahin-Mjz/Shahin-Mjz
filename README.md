@@ -1,6 +1,7 @@
 # Shahin Majazi
 
 ## Kerman Province, Iran
+> - **Credly:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.credly.com/users/shahin-majazi'>Shahin Majazi</a>
 > - **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
 > - **LinkedIn:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
 > - **Coursera:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
@@ -129,7 +130,7 @@
 >> #### Git & GitHub Field
 >>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
 ## Badges
-> <font color='red'> **Note:** </font> **For viewing the badge information click on each image.** <br><br>
+> **Note:** **For viewing the badge information click on each image.** <br><br>
 >[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-specialization.png' width='200' height='200'/>](https://www.credly.com/badges/8d92b165-667c-4d5b-9b7c-18b6472110b6/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-with-tensorflow.png' width='200' height='200'/>](https://www.credly.com/badges/4d305c9c-3c6f-4d32-bfc0-0e68b420fba3/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-neural-networks-with-pytorch.png' width='200' height='200'/>](https://www.credly.com/badges/d8156b49-7314-41df-bb97-3a6856bdd87c/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/git-and-github-essentials.png' width='200' height='200'/>](https://www.credly.com/badges/8403b119-5a6a-44d6-a6c2-8b50501ee6ac/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/python-for-data-science-and-ai.png' width='200' height='200'/>](https://www.credly.com/badges/5eaf117f-5142-4e70-8f1e-4973fe84d91c/public_url)
 
 
