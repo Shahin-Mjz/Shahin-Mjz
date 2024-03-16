@@ -28,7 +28,7 @@
 ## Experience
 
 > ### Data Science Challenge | Coursera Projects <br>
-> <img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/> <br>
+> [<img src='https://github.com/Shahin-Mjz/Images/blob/main/Data_Science_Challenge.png' width='130' height='130'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193) <br>
 >> #### Nov 2023 - Nov 2023 (3 days) <br>
 >>> - **Project scenario** <br>
 >>>> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
@@ -49,7 +49,7 @@
 >>>> [GitHub Repo](https://github.com/Shahin-Mjz/Data-Science-Challenge) <br>
 >>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedntkrecnm?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
 > ### Clean and analyze social media usage data with Python | Coursera Projects
-> <img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/> <br>
+> [<img src='https://github.com/Shahin-Mjz/Images/blob/main/Clean_and_analyze_social_media_usage_data_with_Python.png' width='140' height='140'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193) <br>
 >> #### Nov 2023 - Nov 2023 (2 hours) <br>
 >>> - **Project scenario** <br>
 >>>> You're a data analyst at a marketing firm that promotes brands on social media. Your team wants you to use Python to extract tweets based on specific       categories (health, family, food, etc.), clean and analyze the data, and create   visualizations. They will use your analysis to help clients improve their 
@@ -74,30 +74,23 @@
       **Electrical Engineering (Telecommunication-System)** <br>
         **@Shahid Bahonar University of Kerman** <br>
         **2020 - Present** <br>
-        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/> <br>
+        [<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>]() <br>
 > - **Bachelor's Degree** <br>
       **Electrical Engineering (Telecommunication-System)** <br>
         **@Shahid Bahonar University of Kerman** <br>
         **2016 - 2020** <br>
-        <img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/> <br>
-> - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br>
-    <img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/> <br>
-    **Deep Learning by DeepLearning.AI on Coursera.<br>Certificate earned at March 6, 2024 (3 months)** <br><br>
-> - [**Generative Adversarial Networks<br>(GANs) Specialization**](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) <br>
-    <img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/> <br>
-    **Generative Adversarial Networks (GANs) by DeepLearning.AI on Coursera.<br>Certificate earned at November 29, 2023 (2 months)** <br><br>
-> - [**Machine Learning Specialization**](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
-    <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br>
-    **Machine Learning by Stanford University & DeepLearning.AI on Coursera.<br>Certificate earned at December 21, 2022 (2 months)**
+        [<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>]() <br>
+> [<img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=300 height=250/>](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) [<img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=300 height=250/>](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/MachineLearning_Specialization.png' width=300 height=250/>](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
+> **Note:** **For viewing the education details click on each image.**
+    
   
 ## Licenses & Certificates
 > ### My Specializations
->> - [**Deep Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n) <br>
-    <img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/>
->> - [**Generative Adversarial Networks<br>(GANs) Specialization**](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc) <br>
-    <img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/>
->> - [**Machine Learning Specialization**](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
-    <img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/> <br>
+>> [<img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/>](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+>> [<img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/>](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc)
+>> [<img src='https://github.com/Shahin-Mjz/Images/blob/main/MachineLearning_Specialization.png' width=230 height=190/>](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
+>> **Note:** **For viewing the specializations details click on each image.**
+
 > ### My Courses
 >> #### GAN Field
 >>> - [**Build Better Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/ZB3S4BLQM7S3)
@@ -131,7 +124,9 @@
 >>> - [**Foundations of Cybersecurity | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/NJJ9Q3G44HCE)
 >> #### Git & GitHub Field
 >>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
+
 ## Badges
+
 > **Note:** **For viewing the badge information click on each image.** <br><br>
 >[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-specialization.png' width='200' height='200'/>](https://www.credly.com/badges/8d92b165-667c-4d5b-9b7c-18b6472110b6/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-learning-with-tensorflow.png' width='200' height='200'/>](https://www.credly.com/badges/4d305c9c-3c6f-4d32-bfc0-0e68b420fba3/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/deep-neural-networks-with-pytorch.png' width='200' height='200'/>](https://www.credly.com/badges/d8156b49-7314-41df-bb97-3a6856bdd87c/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/git-and-github-essentials.png' width='200' height='200'/>](https://www.credly.com/badges/8403b119-5a6a-44d6-a6c2-8b50501ee6ac/public_url)[<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/python-for-data-science-and-ai.png' width='200' height='200'/>](https://www.credly.com/badges/5eaf117f-5142-4e70-8f1e-4973fe84d91c/public_url)
 
