@@ -98,33 +98,33 @@
 >>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)[**Apply Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/X6PQV4HSQ66M)
 >>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)[**Build Basic Generative Adversarial Networks (GANs) | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/PYAPMEAMVZ4R)
 >> #### Data Science Field
->>> - [**Data Analysis with Python | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/EV2KPM2LMQPA)
->>> - [**Python for Data Science, AI & Development | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/5D94MEGC64LQ)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/ibm.svg' width='30' height='30'/>](https://www.coursera.org/account/accomplishments/records/EV2KPM2LMQPA)[**Data Analysis with Python | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/EV2KPM2LMQPA)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/ibm.svg' width='30' height='30'/>](https://www.coursera.org/account/accomplishments/records/5D94MEGC64LQ)[**Python for Data Science, AI & Development | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/5D94MEGC64LQ)
 >>> - [**Data Analysis with R Programming | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/99AP5PPXRCWE)
 >> #### NLP Field
->>> - [**Sequence Models | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/W6MMDXLASVVX)
->>> - [**Natural Language Processing with Classification and Vector Spaces | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/NDKAYV7ECQD3)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/W6MMDXLASVVX)[**Sequence Models | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/W6MMDXLASVVX)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/NDKAYV7ECQD3)[**Natural Language Processing with Classification and Vector Spaces | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/NDKAYV7ECQD3)
 >> #### Deep Learning Field
->>> - [**Generative AI for Everyone | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/4BWY66C98A75)
->>> - [**Convolutional Neural Networks | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/3NNHCHTG657R)
->>> - [**Introduction to Machine Learning in Production | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9HNA6SXXVSE2)
->>> - [**AI Capstone Project with Deep Learning | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/S6DCZN2SPN9K)
->>> - [**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/5VU4HUQ3UPV3)
->>> - [**Deep Neural Networks with PyTorch | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/X7FGPQM8D7UV)
->>> - [**Advanced Learning Algorithms | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/U69WGAXBLHY8)
->>> - [**Supervised Machine Learning: Regression and Classification | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/FEFH4XLAS3VC)
->>> - [**Building Deep Learning Models with TensorFlow | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/WNCXBGXBEM2Z)
->>> - [**Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/BBK6NC5AJUV7)
->>> - [**Structuring Machine Learning Projects | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/XTKBSDA5YK8N)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/4BWY66C98A75)[**Generative AI for Everyone | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/4BWY66C98A75)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/3NNHCHTG657R)[**Convolutional Neural Networks | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/3NNHCHTG657R)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/9HNA6SXXVSE2)[**Introduction to Machine Learning in Production | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9HNA6SXXVSE2)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/ibm.svg' width='30' height='30'/>](https://www.coursera.org/account/accomplishments/records/S6DCZN2SPN9K)[**AI Capstone Project with Deep Learning | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/S6DCZN2SPN9K)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/5VU4HUQ3UPV3)[**Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/5VU4HUQ3UPV3)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/ibm.svg' width='30' height='30'/>](https://www.coursera.org/account/accomplishments/records/X7FGPQM8D7UV)[**Deep Neural Networks with PyTorch | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/X7FGPQM8D7UV)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/U69WGAXBLHY8)[**Advanced Learning Algorithms | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/U69WGAXBLHY8)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/FEFH4XLAS3VC)[**Supervised Machine Learning: Regression and Classification | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/FEFH4XLAS3VC)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/ibm.svg' width='30' height='30'/>](https://www.coursera.org/account/accomplishments/records/WNCXBGXBEM2Z)[**Building Deep Learning Models with TensorFlow | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/WNCXBGXBEM2Z)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/BBK6NC5AJUV7)[**Unsupervised Learning, Recommenders, Reinforcement Learning | Coursera - DeepLearning.AI, Stanford University**](https://www.coursera.org/account/accomplishments/records/BBK6NC5AJUV7)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/XTKBSDA5YK8N)[**Structuring Machine Learning Projects | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/XTKBSDA5YK8N)
 >>> - [**Machine Learning | Coursera - Stanford University**](https://www.coursera.org/account/accomplishments/records/CUZVQ77PPTB7)
->>> - [**Neural Networks and Deep Learning | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9FAYHKPJ822P)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/DeepLearningAI_without_background.png' width='20' height='20'/>](https://www.coursera.org/account/accomplishments/records/9FAYHKPJ822P)[**Neural Networks and Deep Learning | Coursera - DeepLearning.AI**](https://www.coursera.org/account/accomplishments/records/9FAYHKPJ822P)
 >> #### Project Management Field
 >>> - [**Foundations of Project Management | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/EBAK9KH3MZF6)
 >> #### Cybersecurity Field
 >>> - [**Play It Safe: Manage Security Risks | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/A5RPKEU3K3CZ)
 >>> - [**Foundations of Cybersecurity | Coursera - Google**](https://www.coursera.org/account/accomplishments/records/NJJ9Q3G44HCE)
 >> #### Git & GitHub Field
->>> - [**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
+>>> - [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/ibm.svg' width='30' height='30'/>](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)[**Getting Started with Git and GitHub | Coursera - IBM**](https://www.coursera.org/account/accomplishments/records/9XRYGSJKEBQU)
 
 ## Badges
 
