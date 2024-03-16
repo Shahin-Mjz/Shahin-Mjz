@@ -28,19 +28,19 @@
 ## Experience
 
 > ### Data Science Challenge | Coursera Projects <br>
-> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Coursera.png' width='100' height='100'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Coursera.png' width='80' height='80'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
 >> #### Nov 2023 - Nov 2023 (3 days) <br>
 >>> - **Project scenario** <br>
 >>>> A Data Science Coding Competition project that uses a real-world dataset to develop a prediction or classification model. Participants approached the 
-  problem using Python and Jupyter Notebook, with a focus on data manipulation, feature engineering, and model evaluation. The competition allowed students 
-  to practice their problem-solving and critical thinking skills, as well as gain experience with machine learning algorithms and data visualization 
+  problem using Python and Jupyter Notebook, focusing on data manipulation, feature engineering, and model evaluation. The competition allowed students 
+  to practice their problem-solving and critical thinking skills and gain experience with machine learning algorithms and data visualization 
   techniques.
 >>> - **Skills demonstrated** <br>
 >>>> `Data Science` `Data Analysis` `Python Programming` `Machine Learning`
 >>> - **Tools used** <br>
 >>>> `Python`
 >>> - **Summary** <br>
->>>> Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
+>>>> Optimized data for balance, removed redundancy, and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
 >>> - **Solution** <br>
 >>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, successfully streamlined the dataset and achieved project objectives.
 >>> - **Approach** <br>
@@ -59,11 +59,11 @@
 >>> - **Tools used** <br>
 >>>> `Python`
 >>> - **Summary** <br>
->>>> Taking on "Clean and Analyze Social Media Usage Data with Python," I described, displayed, and analyzed data. Python's "Data Visualization" improved insights and honed abilities for future assignments.
+>>>> Taking on "Clean and Analyze Social Media Usage Data with Python," I described, displayed, and analyzed data. Python's "Data Visualization" improved my insights and honed my abilities for future assignments.
 >>> - **Solution** <br>
 >>>> Using Python to analyze social media data, I computed average likes and shares over time, uncovered trends, and grouped data by country to reveal engagement patterns. I used a correlation matrix to investigate relationships between likes and shares, demonstrating my ability to extract useful insights.
 >>> - **Approach** <br>
->>>> To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This methodical process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
+>>>> To understand the dataset, I started the project by writing a descriptive "Data Description." Moving on to "Data Information," I established a solid foundation for future analysis. "Data Visualization" in Python improved clarity. With a well-prepared dataset, the "Data Analysis" step revealed significant patterns. This process demonstrated the successful use of Python for modification, visualization, and analysis in completing the "Clean and Analyze Social Media Usage Data with Python" project.
 >>> - **Project links** <br>
 >>>> [GitHub Repo](https://github.com/Shahin-Mjz/Clean-and-Analyze-Social-Media-Usage-Data-with-Python) <br>
 >>>> [Coursera Read-Only File](https://hub.labs.coursera.org/connect/sharedxdsraiey?forceRefresh=false&path=%2Fnotebooks%2FSocialMediaDataAnalysis.ipynb&isLabVersioning=file-prep)
