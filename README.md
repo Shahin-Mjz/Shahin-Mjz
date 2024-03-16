@@ -25,7 +25,7 @@
 > 🎓 I am pursuing a Master's in Electrical Engineering specializing in Telecommunications-System at the Shahid Bahonar University of Kerman. My academic focus includes various facets of artificial intelligence, including Machine Learning, Deep Learning, and Data Analysis. 💡 I am eager to apply my skills and knowledge in these areas to contribute effectively to AI-related roles.
 
 
-## Experience
+## Experiences
 
 > ### Data Science Challenge | Coursera Projects <br>
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/analysis.png' width='180' height='180'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
