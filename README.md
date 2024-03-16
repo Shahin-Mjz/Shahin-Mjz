@@ -3,11 +3,11 @@
 ## Location
 > **Current Location:** Kerman Province, Iran
 ## Profiles & Contact Info:
-> - **GitHub:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://github.com/Shahin-Mjz'>Shahin-Mjz</a>
-> - **LinkedIn:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.linkedin.com/in/shahin-majazi/'>Shahin Majazi</a>
-> - **Coursera:** &nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'>Shahin Majazi</a>
-> - **Credly:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://www.credly.com/users/shahin-majazi'>Shahin Majazi</a>
-> - **Gmail:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='majazishahin@gmail.com'>majazishahin@gmail.com</a>
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/credly.svg' width='20' height='20'/>](https://www.credly.com/users/shahin-majazi) &nbsp; <a href='https://www.credly.com/users/shahin-majazi'> **Credly** </a> <br>
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/github.svg' width='20' height='20'/>](https://github.com/Shahin-Mjz) &nbsp; <a href='https://github.com/Shahin-Mjz'> **GitHub** </a> <br>
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/LinkedIn.png' width='20' height='20'/>](https://www.linkedin.com/in/shahin-majazi/) &nbsp; <a href='https://www.linkedin.com/in/shahin-majazi/'> **LinkedIn** </a> <br>
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Coursera.png' width='20' height='20'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193) &nbsp; <a href='https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193'> **Coursera** </a> <br>
+> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/gmail.svg' width='20' height='20'/>](majazishahin@gmail.com) &nbsp; <a href='majazishahin@gmail.com'> **majazishahin@gmail.com** </a>
 
 
 ## Work Preferences
