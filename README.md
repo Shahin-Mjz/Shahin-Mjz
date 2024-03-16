@@ -135,8 +135,8 @@
 ## Portfolio
 > ### Cybersecurity Portfolio
 >> This cybersecurity portfolio demonstrates expertise by auditing a fictional company's controls, risks, and compliance. The comprehensive report details the security posture through an asset inventory, risk assessment, control types and purposes, and a compliance checklist. It offers recommendations to mitigate identified risks and gaps. Conducting audits to identify and remediate vulnerabilities showcases cybersecurity skills. <br><br>
->> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Portfolio.png' width='350' height='400'/>](https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf) <br>
->> **View this cybersecurity portfolio** <a href='https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf'>**here**</a> **.**
+>> [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/Portfolio.png' width='300' height='400'/>](https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf) <br>
+>> **View the full document of this cybersecurity Portfolio** <a href='https://github.com/Shahin-Mjz/My-Files/blob/main/all_files_together.pdf'>**here**</a> **.**
 ## Skills
 > ### Machine Learning & Deep Learning Skills
 >> `Convolutional Neural Networks (CNNs)` `Artificial Neural Network` `Transformers` `Logistic Regression` `Linear Regression` `Decision Trees` `Recommender Systems` `Facial Recognition System` `Object Detection and Segmentation`
