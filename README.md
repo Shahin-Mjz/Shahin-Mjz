@@ -73,17 +73,17 @@
 
 ## 🎓 Education
 
-> - **Masters Student** <br>
+> **Masters Student:** <br>
       **Electrical Engineering (Telecommunication-System)** <br>
         **@Shahid Bahonar University of Kerman** <br>
         **2020 - Present** <br>
         [<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>]() <br>
-> - **Bachelor's Degree** <br>
+> **Bachelor's Degree:** <br>
       **Electrical Engineering (Telecommunication-System)** <br>
         **@Shahid Bahonar University of Kerman** <br>
         **2016 - 2020** <br>
         [<img src='https://github.com/Shahin-Mjz/Images/blob/main/Bahonar_university.png' width=155 height=190/>]() <br>
-> - **Other Educations**<br><br>
+> **Other Educations:** <br><br>
 > [<img src='https://github.com/Shahin-Mjz/Images/blob/main/DeepLearning_Specialization.png' width=230 height=190/>](https://www.coursera.org/account/accomplishments/specialization/T3L4WP2S57M3?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
 > [<img src='https://github.com/Shahin-Mjz/Images/blob/main/GANs.png' width=230 height=190/>](https://coursera.org/share/eda7cd139dddffe674eaabcbe2e33cfc)
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/MachineLearning_Specialization.png' width=230 height=190/>](https://coursera.org/share/7944eb9cc24bf5be4db28b7719588955) <br>
