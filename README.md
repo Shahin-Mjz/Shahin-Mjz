@@ -160,6 +160,8 @@
 >> `Project Scoping and Design` `Project Management` `Change Management` `Strategic Thinking` `Organizational Culture` `Career Development` `...`
 > ### Cybersecurity Skills
 >> `Information Security (INFOSEC)` `NIST Risk Management Framework (RMF)` `Security Audits` `NIST Cybersecurity Framework (CSF)` `Incident Response Playbooks` `Ethics in Cybersecurity` `Historical Attacks` `...`
+> ### Web Development Skills
+>> `HTML` `CSS` `Javascript` `Bootstrap` `React`
 
 
 
