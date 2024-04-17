@@ -29,7 +29,26 @@
 
 
 ## Experiences
-
+> ### Employment
+> - **Organization**<br>
+>       [*AI.Group*](https://www.linkedin.com/groups/9585548/)
+> - **Region**<br>
+>       *Kerman, Kerman Province, Iran*
+> - **Role**<br>
+>       *AI Project Manager*
+> 
+> **2024-present**
+>   
+> ### Employment
+> - **Organization**<br>
+>       [*IDPL-Lab*](https://idpl.uk.ac.ir/)
+> - **Region**<br>
+>       *Kerman, Kerman Province, Iran*
+> - **Role**<br>
+>       *AI Research & Development (R&D)*
+>   
+> **2021-2023**
+>   
 > ### Data Science Challenge | Coursera Projects <br>
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/analysis.png' width='180' height='180'/>](https://www.coursera.org/user/c8d4a2a904f2536cc329d223a5ad6193)
 >> #### Nov 2023 - Nov 2023 (3 days) <br>
@@ -43,7 +62,7 @@
 >>> - **Tools used** <br>
 >>>> `Python`
 >>> - **Summary** <br>
->>>> Optimized data for balance, removed redundancy, and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
+>>>> Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
 >>> - **Solution** <br>
 >>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, I successfully streamlined the dataset and achieved project objectives.
 >>> - **Approach** <br>
