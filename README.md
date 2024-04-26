@@ -13,9 +13,9 @@
 
 
 ## Work Preferences
-> - **Data Science&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Entry-level)**
-> - **AI Project Management&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Entry-level)**
-> - **AI Research and Development&nbsp;&nbsp;&nbsp;&nbsp;(Entry-level)**
+> - **Data Science** &nbsp;&nbsp; **(Entry-level)**
+> - **AI Project Management** &nbsp;&nbsp; **(Entry-level)**
+> - **AI Research and Development** &nbsp;&nbsp; **(Entry-level)**
 > - **...**
 
 ## Location Preferences
