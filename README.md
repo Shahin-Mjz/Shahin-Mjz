@@ -41,7 +41,7 @@
 >   
 > ### Employment
 > - **Organization**<br>
->       [*IDPL-Lab*](https://idpl.uk.ac.ir/)
+>       [*Intelligent Data Processing Laboratory (IDPL)*](https://idpl.uk.ac.ir/)
 > - **Region**<br>
 >       *Kerman, Kerman Province, Iran*
 > - **Role**<br>
@@ -62,7 +62,7 @@
 >>> - **Tools used** <br>
 >>>> `Python`
 >>> - **Summary** <br>
->>>> Optimized data for balance, removed redundancy and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
+>>>> Optimized data for balance, removed redundancy, and enhanced predictive power using advanced techniques. Achieved project objectives seamlessly.
 >>> - **Solution** <br>
 >>>> In this project, I addressed data imbalances by configuring predictors to 'balanced' mode. Identified and removed redundant features using Gradient Boosting Classifier for feature selection. Applied One-Hot encoding to convert nominal to numerical data. Achieved optimal model performance through Hyperparameter tuning using Grid Search. Overall, I successfully streamlined the dataset and achieved project objectives.
 >>> - **Approach** <br>
