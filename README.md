@@ -1,7 +1,7 @@
 # Shahin Majazi
 
 ## Location
-> **Current Location:** London, United Kingdom
+> **Current Location:** London Area, United Kingdom
 ## Profiles & Contact Info
 
 > [<img src='https://github.com/Shahin-Mjz/My-Files/blob/main/credly.svg' width='25' height='25'/>](https://www.credly.com/users/shahin-majazi) &nbsp; <a href='https://www.credly.com/users/shahin-majazi'> **Credly** </a> <br>
