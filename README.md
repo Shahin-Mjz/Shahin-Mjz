@@ -31,7 +31,7 @@
 ## Experiences
 > ### Employment
 > - **Organization**<br>
->       [*AI.Group*](https://www.linkedin.com/groups/9585548/)
+>       [*Ai.Group™*](https://www.linkedin.com/groups/9585548/)
 > - **Region**<br>
 >       *Kerman, Kerman Province, Iran*
 > - **Role**<br>
